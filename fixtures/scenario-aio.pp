@@ -29,6 +29,7 @@ include ::openstack_integration::mysql
 include ::openstack_integration::keystone
 include ::openstack_integration::glance
 include ::openstack_integration::neutron
+include ::openstack_integration::placement
 include ::openstack_integration::nova
 include ::openstack_integration::cinder
 include ::openstack_integration::horizon

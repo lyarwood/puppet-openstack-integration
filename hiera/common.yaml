@@ -1,2 +1,3 @@
 ---
 apache::default_vhost: false
+tempest::install_from_source: false
